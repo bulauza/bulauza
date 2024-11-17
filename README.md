@@ -4,8 +4,8 @@
   <a href="https://github.com/bulauza/bulauza/">
     <img src="https://komarev.com/ghpvc/?username=bulauza" alt="bulauza" />
   </a>
-  <a href="http://twitter.com/bulauza">
-    <img height="20" src="https://img.shields.io/twitter/follow/bulauza?label=Twitter&logo=twitter&style=flat" />
+  <a href="http://x.com/bulauza1">
+    <img height="20" src="https://img.shields.io/twitter/follow/bulauza1?style=flat&logo=X" />
   </a>
   <a href="https://github.com/bulauza">
     <img height="20" src="https://img.shields.io/github/followers/bulauza?label=follow&logo=github&style=flat" />
