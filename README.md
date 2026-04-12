@@ -24,7 +24,7 @@
 ### Achievement
 <p align="left">
   <img alt="github stats" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=bulauza">
-  <img alt="github trophy stats" src="https://github-profile-trophy.vercel.app/?username=bulauza" alt="bulauza" />
+  <img alt="github trophy stats" src="https://github-profile-repo.vercel.app/?username=bulauza&rank=-?,-C,-B" alt="bulauza" />
 </p>
 
 <!---
